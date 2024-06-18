@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Sudip Timalsina</h1>
 <h3 align="center">
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500" alt="animated hello">
@@ -53,7 +52,12 @@
 ### <li> <a href="https://github.com/SudipTimalsina/lec-jobs-be"> LEC-Jobs </a></li>
 ### <li> <a href="https://github.com/SudipTimalsina/Operating-System-Lab"> OS-Process Scheduling in C++ </a></li>
 
+## Connect with me:
 
+
+<p align="left">
+<a href="https://linkedin.com/in/sudip-timalsina-55b2a9219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudip-timalsina-55b2a9219" height="30" width="40" /></a>
+</p>
 
 ## My Streak
 
