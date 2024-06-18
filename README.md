@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi 👋, I'm Sudip Timalsina</h1>
 <h3 align="center">
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500" alt="animated hello">
@@ -33,6 +34,18 @@
 <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="100">
 </div>
 
+## Add on's
+
+<p align="center">
+<h3>Good</h3>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,windows,figma" />
+    </br>
+
+    
+</a>
+
+</br>
 <hr></hr>
 
 ## Projects
