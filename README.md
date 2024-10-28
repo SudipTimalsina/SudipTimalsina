@@ -10,9 +10,6 @@
 ## About Me 
 
 - <h3>Name : Sudip Timalsina</h3>
-<! - <h3>Role : AI Data Trainer</h3>
-- <h3>Where : CloudFactory</h3>
-- <h3>Origin & Workplace : Nepal</h3> >
 - <h3>Hobbies : Hikes and Novels</h3>
 
 </br>
