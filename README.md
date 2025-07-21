@@ -10,6 +10,9 @@
 ## About Me 
 
 - <h3>Name : Sudip Timalsina</h3>
+- <h3>Role : Associate Software Engineer</h3>
+- <h3>Work : Uranus Tech Nepal</h3>
+- <h3>Country : Nepal</h3>
 - <h3>Hobbies : Hikes and Novels</h3>
 
 </br>
@@ -28,6 +31,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="100">
+ <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
 </div>
 
 ## Add on's
@@ -35,7 +39,7 @@
 <p align="center">
 <h3>Good</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,windows,figma" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,c,cpp,git,github,figma,visualstudio,postman" />
     </br>
 
     
