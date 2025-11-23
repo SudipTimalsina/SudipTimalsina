@@ -10,8 +10,8 @@
 ## About Me 
 
 - <h3>Name : Sudip Timalsina</h3>
-- <h3>Role : Associate Software Engineer</h3>
-- <h3>Work : Uranus Tech Nepal</h3>
+- <h3>Role : Software Engineer</h3>
+- <h3>Work : Neo Assure </h3>
 - <h3>Country : Nepal</h3>
 - <h3>Hobbies : Hikes and Novels</h3>
 
